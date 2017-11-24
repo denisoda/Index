@@ -1,0 +1,16 @@
+body{
+    background-image: url("../images/footer_lodyas.png")
+}
+
+header{
+    color: red;
+    text-align: center;
+}
+
+.main{
+    background-color: white;
+}
+
+code{
+    background-color: black;
+}
