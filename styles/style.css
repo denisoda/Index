@@ -11,17 +11,17 @@ header{
 
 code{
     color: green;
+    background-color: transparent;
 }
 
 .MainText{
-
-    color:green;
-    background-color:black
+    color: green;
+    background: rgba(0,0,0,0.7);
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-code{
-    background-color: black;
-}
+
 
 canvas{
     position:absolute;
