@@ -1,15 +1,44 @@
-
-
 header{
+    opacity: 0.8;
     text-align: center;
+    margin: auto;
+    padding: 10px;
 }
 
-.main{
-    background-color: white;
+.container{
+    position: inherit;
+}
+
+code{
+    color: green;
+}
+
+.MainText{
+
+    color:green;
+    background-color:black
 }
 
 code{
     background-color: black;
+}
+
+canvas{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index:-1;
+}
+
+.PhotoMain
+{
+    text-align: center;
+}
+
+img.img-circle{
+    width: 340px;
 }
 
 .count-particles{
